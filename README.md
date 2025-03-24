@@ -52,12 +52,3 @@ jupyter notebook "Diabetes Prediction.ipynb"
 ## 🤝 Contribution
 Want to contribute? Fork the repository, create a new branch, and submit a **Pull Request**! 🚀
 
----
-
-## ⚖️ License
-This project is **open-source** and available under the **MIT License**.
-
----
-
-## 📩 Contact
-For queries, reach out via **[your email]** or open an issue in the repository! 📨
