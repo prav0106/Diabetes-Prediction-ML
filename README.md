@@ -11,17 +11,6 @@ This project leverages **Machine Learning** to predict the likelihood of diabete
 
 ---
 
-## 🤖 Model Details
-- **📄 File Name:** `Diabetes Prediction.ipynb`
-- **🛠️ Algorithms Used:**
-  - ✅ Logistic Regression
-  - ✅ Decision Tree
-  - ✅ Random Forest
-  - ✅ Support Vector Machine (SVM)
-  - ✅ K-Nearest Neighbors (KNN)
-
----
-
 ## 📌 Requirements
 Ensure you have the required dependencies installed:
 ```bash
