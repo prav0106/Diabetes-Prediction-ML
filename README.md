@@ -12,7 +12,7 @@ This project leverages **Machine Learning** to predict the likelihood of diabete
 ---
 
 ## 📌 Requirements
-Ensure you have the required dependencies installed:0000
+Ensure you have the required dependencies installed:000
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
 ```
