@@ -7,7 +7,7 @@ This project leverages **Machine Learning** to predict the likelihood of diabete
 
 ## 📂 Dataset Details
 - **📁 File Name:** `diabetes.csv` 
-- **📌 Description:** A dataset with multiple health-related features that contribute to diabetes prediction.
+- **📌 Description:** A dataset with multiple health-related features that contribute to diabetes prediction. 
 
 ---
 
