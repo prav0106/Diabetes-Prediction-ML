@@ -3,7 +3,7 @@
 ## 🚀 Overview
 This project leverages **Machine Learning** to predict the likelihood of diabetes based on various health parameters. The model is trained on a dataset containing vital indicators such as glucose levels, blood pressure, BMI, and insulin levels.
 
----
+---  
   
 ## 📂 Dataset Details
 - **📁 File Name:** `diabetes.csv`       
