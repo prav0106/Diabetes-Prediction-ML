@@ -22,7 +22,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ---
 
 ## 🏃‍♂️ How to Run
-1. **Clone the repository:**
+1. **Clone the repository:**  
 ```bash
 git clone https://github.com/prav0106/diabetes-prediction.git
 ```
